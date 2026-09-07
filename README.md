@@ -52,5 +52,5 @@ cd Medical-Document-QA-System
          v
 [ Display Answer and Source Text ]
 
-img width="1536" height="1024" alt="images" src="https://github.com/user-attachments/assets/47ba8b37-70cc-43e5-ada8-2b5cd338b65e" 
+"C:\Users\Aswim\Downloads\images.png"
 
