@@ -20,38 +20,9 @@ This project is a simple Retrieval-Augmented Generation (RAG) web application bu
 
 ## ⚙️ Setup and Installation Instructions
 
-### 1.Prerequisites
+### Prerequisites
 * Python 3.8 or higher installed on your system.
 * A free Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
 
-### 2. Clone the Repository
-```bash
-git clone [https://github.com/ASWINKUMAR2307/Medical-Document-QA-System.git](https://github.com/ASWINKUMAR2307/Medical-Document-QA-System.git)
-cd Medical-Document-QA-System
 "C:\Users\Aswim\Downloads\images.png"
-
-[ User Uploads PDF ]
-         |
-         v
-[ Extract and Split Text ]
-         |
-         v
-[ Convert Text to Vectors ]
-         |
-         v
-[ Store in FAISS Database ]
-         |
-         v
-[ User Asks a Question ]
-         |
-         v
-[ Search Database for Matches ]
-         |
-         v
-[ Send Matches and Question to LLM ]
-         |
-         v
-[ Display Answer and Source Text ]
-
-
 
