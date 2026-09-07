@@ -28,6 +28,7 @@ This project is a simple Retrieval-Augmented Generation (RAG) web application bu
 ```bash
 git clone [https://github.com/ASWINKUMAR2307/Medical-Document-QA-System.git](https://github.com/ASWINKUMAR2307/Medical-Document-QA-System.git)
 cd Medical-Document-QA-System
+"C:\Users\Aswim\Downloads\images.png"
 
 [ User Uploads PDF ]
          |
@@ -52,5 +53,5 @@ cd Medical-Document-QA-System
          v
 [ Display Answer and Source Text ]
 
-"C:\Users\Aswim\Downloads\images.png"
+
 
