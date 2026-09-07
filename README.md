@@ -24,9 +24,6 @@ This project is a simple Retrieval-Augmented Generation (RAG) web application bu
 * Python 3.8 or higher installed on your system.
 * A free Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
 
-
-
-
-![Uploading images.png…]()
+<img width="1536" height="1024" alt="images" src="https://github.com/user-attachments/assets/f58a4c4b-4812-45fd-8a64-9a7017ea3a3e" />
 
 
